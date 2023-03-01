@@ -12,7 +12,7 @@
 </div> 
 
 # 💥 About me
-⭐ I'm a polly trying to learn languages like **NodeJs - JavaScript - Python** for a long time I'm studying electrical engineering that's it for now
+⭐ I'm a soull trying to learn languages like **NodeJs - JavaScript - Python** for a long time I'm studying electrical engineering that's it for now
 
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
 
